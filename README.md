@@ -38,7 +38,7 @@ help remove unwanted noise while preserving important ridge information. Ridge t
 algorithms aim to reduce the width of ridges to enhance their clarity and distinguishability.
 Ridge orientation estimation techniques help determine the local ridge direction.
 
-![Example Image]("C:\Users\Nitesh\Downloads\ayurveda (1).png")
+
 
 
 
