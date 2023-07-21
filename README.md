@@ -38,6 +38,8 @@ help remove unwanted noise while preserving important ridge information. Ridge t
 algorithms aim to reduce the width of ridges to enhance their clarity and distinguishability.
 Ridge orientation estimation techniques help determine the local ridge direction.
 
+![model](https://github.com/Nitheshkamath/Fingerprint_Matching/assets/112107488/1613b2c9-f969-45a1-842f-c2c579868888)
+
 
 
 
